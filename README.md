@@ -22,7 +22,6 @@ Before starting, you need:
 
   * Your application code
   * Updated `deployment.yaml`
-  * Updated `Jenkinsfile`
 
 ---
 
@@ -56,7 +55,6 @@ Push the following to your **public GitHub repository**:
 
 * Application source code
 * Updated `deployment.yaml`
-* Updated `Jenkinsfile`
 
 ---
 
